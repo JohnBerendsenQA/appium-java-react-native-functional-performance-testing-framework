@@ -28,6 +28,10 @@ project.xcworkspace
 .gradle
 local.properties
 
+#settings
+#
+.setting
+
 #vscode
 #
 .vscode
